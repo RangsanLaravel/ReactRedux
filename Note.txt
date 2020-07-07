@@ -1,0 +1,53 @@
+## FONT END ##
+สำหรับ Generate component
+npm install --save-dev create-react-component-folder
+npx crcf myComponent
+
+
+แพ็คเก็ตสำหรับ การ Router Route Redirect
+npm i react-router-dom
+
+
+แพ็คเกจสำหรับเรียก API
+npm i axios
+npm i url-join
+
+## Redux ##
+npm i redux react-redux redux-thunk redux-logger 
+
+## สำหรับจัดการ เช็คการหยุดพิมพ์ ##
+npm i lodash
+
+## สำหรับจัดการกับฟอร์แมตเวลา ##
+npm i moment react-moment
+
+moment 2.24.0
+"resolutions": {
+    "moment": "2.24.0"
+  }
+
+## สำหรับจัดการกับฟอร์แมต ตัวเลข ##
+npm i react-number-format
+
+## สำหรับจัดการ Sweetalert ##
+npm i sweetalert2 sweetalert2-react-content
+
+
+## BACK END ## 
+สำหรับ backend รีรันเซิฟเวอร์ใหม่อีกครั้ง
+Sudo npm i -g nodemon
+
+สร้างไฟล์ package.json 
+npm init -y
+npm i express body-parser fs-extra formidable
+
+สำหรับเข้ารหัส password
+npm i bcryptjs
+
+ไม่รู้ลงทำไม
+npm i cors
+
+
+## DATA BASE ##
+npm i sequelize
+npm i sqlite3
